@@ -1,0 +1,64 @@
+{
+    "tests": [
+      {
+        "name": "quiz11: hasAt",
+        "run": "npm run test:q11",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz12: temp",
+        "run": "npm run test:q12",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz13: light",
+        "run": "npm run test:q13",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz14: Even",
+        "run": "npm run test:q14",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz15: Reverse",
+        "run": "npm run test:q15",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz16: ValidatePass",
+        "run": "npm run test:q16",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz17: starPyramid",
+        "run": "npm run test:q17",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz18: OneOrZero",
+        "run": "npm run test:q18",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz19: NumberRepetition",
+        "run": "npm run test:q19",
+        "points": 1,
+        "timeout": 10
+      },
+      {
+        "name": "quiz20: LargestNumber",
+        "run": "npm run test:q20",
+        "points": 1,
+        "timeout": 10
+      }
+    ]
+  }
