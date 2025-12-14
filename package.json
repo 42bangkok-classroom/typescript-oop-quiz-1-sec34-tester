@@ -1,0 +1,38 @@
+{
+    "name": "typescript-oop-quiz-1",
+    "version": "0.0.1",
+    "description": "first time quiz in Typescript oop class",
+    "keywords": [
+      "oop",
+      "typescript",
+      "kmitl",
+      "42bangkok",
+      "classroom"
+    ],
+    "license": "ISC",
+    "author": "viruskizz,nxwbtk",
+    "type": "commonjs",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest --noStackTrace",
+      "test:q11": "jest hasAt.test.ts --noStackTrace",
+      "test:q12": "jest temp.test.ts --noStackTrace",
+      "test:q13": "jest light.test.ts --noStackTrace",
+      "test:q14": "jest Even.test.ts --noStackTrace",
+      "test:q15": "jest Reverse.test.ts --noStackTrace",
+      "test:q16": "jest ValidatePass.test.ts --noStackTrace",
+      "test:q17": "jest starPyramid.test.ts --noStackTrace",
+      "test:q18": "jest OneOrZero.test.ts --noStackTrace",
+      "test:q19": "jest NumberRepetition.test.ts --noStackTrace",
+      "test:q20": "jest LargestNumber.test.ts --noStackTrace"
+    },
+    "devDependencies": {
+      "@types/jest": "^30.0.0",
+      "@types/mocha": "^10.0.10",
+      "@types/node": "^25.0.0",
+      "jest": "^30.2.0",
+      "ts-jest": "^29.4.6",
+      "ts-node": "^10.9.2",
+      "typescript": "^5.9.3"
+    }
+  }
